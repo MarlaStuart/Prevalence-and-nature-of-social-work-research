@@ -1,1 +1,5 @@
 # Prevalence-and-nature-of-social-work-research
+
+Abstract
+Objective: Social work scholars routinely review published articles in social work journals to describe the extent to which they reported original empirical findings (research prevalence) and the methods implemented. Utilizing data science methods, we outline an analytic template to conduct such analyses more comprehensively, systematically, and efficiently. Methods: This study tests the applicability of natural language processing and machine learning techniques to analyze over 100,000 article abstracts from 363 journals. Results: Over the period 2010-2014, the research prevalence was .42. We found four clusters of methods and analytic techniques implemented in these studies: 1) systematic and meta-analytic reviews, 2) descriptive, quantitative, cross-sectional studies, 3) qualitative, and sometimes mixed methods cross-sectional studies, and 4) evaluative and explanatory studies. Conclusions: The approach developed here demonstrates the promise of harnessing data science to summarize big text data and provides a replicable template for future studies.
+
